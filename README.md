@@ -24,10 +24,6 @@ http://movies-revive.runasp.net/
 * Pagination support
 * Database integration with SQL Server
 
-## Screenshots
-
-*Add screenshots here.*
-
 ## Project Structure
 
 * Movies - main web application
